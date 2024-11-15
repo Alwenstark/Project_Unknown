@@ -15,8 +15,8 @@ public class Main {
 	}
 
 	@GetMapping("/")
-	public String master(){
-		return "main created";
+	public String Alwen(){
+		return "Alss joined";
 	}
 
 }
