@@ -16,7 +16,7 @@ public class Main {
 
 	@GetMapping("/")
 	public String Alwen(){
-		return "Alss joined";
+		return "DhanaPal joined";
 	}
 
 }
